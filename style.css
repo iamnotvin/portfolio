@@ -67,10 +67,10 @@ a:hover {
   cursor: default;
 }
 .img {
-    width: 100%;
+    width: 50%;
     max-width: 150px;
     height: auto;
-    margin: 5px auto;
+    margin: 10px auto;
     display: block;
     transition: transform 0.3s; /* Smooth transition for hover effect */
 }
