@@ -66,17 +66,6 @@ a:hover {
 .logo:hover {
   cursor: default;
 }
-.img {
-    width: 50%;
-    max-width: 150px;
-    height: auto;
-    margin: 10px auto;
-    display: block;
-    transition: transform 0.3s; /* Smooth transition for hover effect */
-}
-img:hover {
-    transform: scale(1.10); /* Slightly enlarges the image on hover */
-}
 
 /* HAMBURGER MENU */
 
