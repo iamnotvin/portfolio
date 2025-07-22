@@ -68,14 +68,14 @@ a:hover {
 }
 .img {
     width: 100%;
-    max-width: 300px;
+    max-width: 150px;
     height: auto;
-    margin: 20px auto;
+    margin: 5px auto;
     display: block;
     transition: transform 0.3s; /* Smooth transition for hover effect */
 }
 img:hover {
-    transform: scale(1.05); /* Slightly enlarges the image on hover */
+    transform: scale(1.10); /* Slightly enlarges the image on hover */
 }
 
 /* HAMBURGER MENU */
